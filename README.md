@@ -1,6 +1,6 @@
 toss the gui into pyinstall for an exe
 
-or if youre lazy the complete button :   https://files.catbox.moe/wucf16.zip 
+or if youre lazy, the complete button :   https://files.catbox.moe/wucf16.zip 
 
 Check the dist/sexy4chanscript
 
