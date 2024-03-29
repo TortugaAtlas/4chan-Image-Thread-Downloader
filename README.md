@@ -1,1 +1,1 @@
-toss the gui it into pyinstall for an exe
+toss the gui into pyinstall for an exe
